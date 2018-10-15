@@ -50,7 +50,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 * Python
     * [Time Complexity](https://wiki.python.org/moin/TimeComplexity)
 
-## Bit Manipulation <a name="bit-manipulation"/a>
+## Bit Manipulation <a name="bit-manipulation"/>
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/single-number.cpp) [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
@@ -78,7 +78,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [C++](./C++/binary-gap.cpp) [Python](./Python/binary-gap.py) | _O(1)_ | _O(1)_ | Easy ||
 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [C++](./C++/bitwise-ors-of-subarrays.cpp) [Python](./Python/bitwise-ors-of-subarrays.py) | _O(n)_ | _O(1)_ | Medium ||
 
-## Array <a name="array"/a>
+## Array <a name="array"/>
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/3sum.cpp) [Python](./Python/3sum.py)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
@@ -179,7 +179,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [C++](./C++/partition-array-into-disjoint-intervals.cpp) [Python](./Python/partition-array-into-disjoint-intervals.py) | _O(n)_ | _O(n)_      | Medium         ||
 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [C++](./C++/maximum-sum-circular-subarray.cpp) [Python](./Python/maximum-sum-circular-subarray.py) | _O(n)_ | _O(1)_      | Medium         ||
 
-## String <a name="string"/a>
+## String <a name="string"/>
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/longest-palindromic-substring.cpp) [Python](./Python/longest-palindromic-substring.py) | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`
